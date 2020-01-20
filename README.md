@@ -65,6 +65,7 @@ Exchange pages
 #### Alpha 0.0.5
 
 Advertising space
+
 Price with volume weight included
 
 #### Alpha 0.0.6
@@ -74,10 +75,15 @@ Beautification Part 1
 #### Alpha 0.0.7
 
 Exchange quality index items:
+
 Age
+
 Public team
+
 KYC (Probably doesn't get a point value but good to know)
+
 Regulated?
+
 
 #### Alpha 0.0.8
 
