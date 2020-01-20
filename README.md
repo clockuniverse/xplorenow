@@ -25,7 +25,9 @@ Bitcoin price banner (from CoinGecko)
 #### Alpha 0.0.2
 
 Some items like logo, Bitcoin price and circulating supply pulled from CoinGecko.
+
 BTC/USD button
+
 Coin page for each coin with all pairs listed for above exchanges
 Charts page
 
