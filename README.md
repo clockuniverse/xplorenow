@@ -38,19 +38,33 @@ CAD Button added
 Quality items button
 
 Quality items added:
+
 Website
+
 Open Source 
+
 Block Explorer
+
 CoreWallet - Linux
+
 CoreWallet - Windows
+
 CoreWallet - MacOS
+
 Mobile Wallet - Android
+
 Mobile Wallet - iOS
+
 Paper Wallet
+
 Multicoin Wallet 
+
 Hardware Wallet
+
 Public Team
+
 Decentralized Governance
+
 Public Team Spending
 
 Working API at /graphql
