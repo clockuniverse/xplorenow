@@ -40,22 +40,22 @@ Quality items button
 
 Quality items added:
 * Age
-..*Market Cap
-..*Website
-..*Open Source 
-..*Block Explorer
-..*CoreWallet - Linux
-..*CoreWallet - Windows
-..*CoreWallet - MacOS
-..*Mobile Wallet - Android
-..*Mobile Wallet - iOS
-..*Paper Wallet
-..*Multicoin Wallet 
-..*Hardware Wallet
-..*Public Team
-..*Decentralized Governance
-..*Public Team Spending
-..*Public Team
+* Market Cap
+* Website
+* Open Source 
+* Block Explorer
+* CoreWallet - Linux
+* CoreWallet - Windows
+* CoreWallet - MacOS
+* Mobile Wallet - Android
+* Mobile Wallet - iOS
+* Paper Wallet
+* Multicoin Wallet 
+* Hardware Wallet
+* Public Team
+* Decentralized Governance
+* Public Team Spending
+* Public Team
 
 #### Alpha 0.0.4
 
@@ -74,9 +74,9 @@ Twitter on footer
 #### Alpha 0.0.6
 
 FAQ to explain servers statuses:
-..*Up
-..*Idle
-..*Down
+* Up
+* Idle
+* Down
 
 Beautification Part 1
 Subscribe for newsletters from Xplorenow in Footer
@@ -86,10 +86,11 @@ Charts for quality items
 
 Exchange quality index items:
 
-..*Age
-..*Public Team
-..*KYC (Probably doesn't get a point value but good to know)
-..*Regulated?
+* Age
+* Public Team
+* KYC (Probably doesn't get a point value but good to know)
+* Regulated?
+* Volume
 
 #### Alpha 0.0.8
 
