@@ -39,7 +39,7 @@ CAD Button added
 Quality items button
 
 Quality items added:
-..* Age
+* Age
 ..*Market Cap
 ..*Website
 ..*Open Source 
