@@ -29,6 +29,7 @@ Some items like logo, Bitcoin price and circulating supply pulled from CoinGecko
 BTC/USD button
 
 Coin page for each coin with all pairs listed for above exchanges
+
 Charts page
 
 #### Alpha 0.0.3
@@ -38,36 +39,23 @@ CAD Button added
 Quality items button
 
 Quality items added:
-
-Website
-
-Open Source 
-
-Block Explorer
-
-CoreWallet - Linux
-
-CoreWallet - Windows
-
-CoreWallet - MacOS
-
-Mobile Wallet - Android
-
-Mobile Wallet - iOS
-
-Paper Wallet
-
-Multicoin Wallet 
-
-Hardware Wallet
-
-Public Team
-
-Decentralized Governance
-
-Public Team Spending
-
-Working API at /graphql
+..*Age
+..*Market Cap
+..*Website
+..*Open Source 
+..*Block Explorer
+..*CoreWallet - Linux
+..*CoreWallet - Windows
+..*CoreWallet - MacOS
+..*Mobile Wallet - Android
+..*Mobile Wallet - iOS
+..*Paper Wallet
+..*Multicoin Wallet 
+..*Hardware Wallet
+..*Public Team
+..*Decentralized Governance
+..*Public Team Spending
+..*Public Team
 
 #### Alpha 0.0.4
 
@@ -78,27 +66,36 @@ Exchange pages
 
 #### Alpha 0.0.5
 
+Hidden live site to start gather time data
 Advertising space
-
-Price with volume weight included
+Working API at /graphql
+Twitter on footer
 
 #### Alpha 0.0.6
 
+FAQ to explain servers statuses:
+..*Up
+..*Idle
+..*Down
+
 Beautification Part 1
+Subscribe for newsletters from Xplorenow in Footer
+Charts for quality items
 
 #### Alpha 0.0.7
 
 Exchange quality index items:
 
-Age
-
-Public team
-
-KYC (Probably doesn't get a point value but good to know)
-
-Regulated?
-
+..*Age
+..*Public Team
+..*KYC (Probably doesn't get a point value but good to know)
+..*Regulated?
 
 #### Alpha 0.0.8
 
+FAQ with quality item explanation
 Beautification Part 2
+
+#### Alpha 0.0.9
+
+Price with volume weight included
