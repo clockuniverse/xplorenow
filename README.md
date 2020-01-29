@@ -44,6 +44,7 @@ Quality items added:
 * Website
 * Open Source 
 * Block Explorer
+* Number of pairs
 * CoreWallet - Linux
 * CoreWallet - Windows
 * CoreWallet - MacOS
