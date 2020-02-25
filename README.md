@@ -63,13 +63,21 @@ Quality items added:
 
 Footer with info
 
-Exchange (market) pages
+Exchange (market) pages listing all pairings they host
+
+Exchanges (Markets) added:
+
+* SouthXChange
+* TradeSatoshi (though they are shutting down)
+* NLexch
+* Cratex
+* Zapple
 
 ### Roadmap
 
 #### Alpha 0.0.5
 
-Exchanges (Markets Added)
+Exchanges (Markets) added:
 
 * FidesEx
 * Coinsbit
