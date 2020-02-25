@@ -39,6 +39,7 @@ CAD Button added
 Quality items button
 
 Quality items added:
+
 * Age
 * Market Cap
 * Website
@@ -62,21 +63,39 @@ Quality items added:
 
 Footer with info
 
-Exchange pages
+Exchange (market) pages
 
 ### Roadmap
 
 #### Alpha 0.0.5
 
-Hidden live site to start gather time data
+Exchanges (Markets Added)
+
+* FidesEx
+* Coinsbit
+* CoinEgg
+* AEX
+* YoBit - Flag or something
+* LiveCoin
+* HitBTC
+* Mercatox
+* STEX
+* Freiexchange
+* UnnamedExchange
+* Altilly
+* ISX.is
+* Graviex
+* Dove Wallet
+* TheCoin.pw
+* SocialSend
 
 Advertising space
-
-Working API at /graphql
 
 Twitter on footer
 
 #### Alpha 0.0.6
+
+Working API at /graphql
 
 FAQ to explain servers statuses:
 * Up
@@ -101,7 +120,7 @@ Exchange quality index items:
 
 #### Alpha 0.0.8
 
-FAQ with quality item explanation
+FAQ with market quality item explanation
 
 Beautification Part 2
 
