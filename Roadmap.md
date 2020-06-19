@@ -1,4 +1,4 @@
-XploreNow is a coin ranking site that ranks coins and exchanges by market cap, and quality of coin or exchange.
+XploreNow is a coin ranking site that ranks coins and exchanges by quality and market cap.
 
 XploreNow is a closed source, for profit, non-Terracoin Foundation, side project of mine.
 
@@ -30,7 +30,6 @@ BTC/USD button
 
 Coin page for each coin with all pairs listed for above exchanges
 
-Charts page
 
 #### Alpha 0.0.3
 
@@ -73,17 +72,13 @@ Exchanges (Markets) added:
 * Cratex
 * Zapple
 
-### Roadmap
-
 #### Alpha 0.0.5
 
 Exchanges (Markets) added:
 
 * FidesEx
 * Coinsbit
-* CoinEgg
 * AEX
-* YoBit - Flag or something
 * LiveCoin
 * HitBTC
 * Mercatox
@@ -91,47 +86,51 @@ Exchanges (Markets) added:
 * Freiexchange
 * UnnamedExchange
 * Altilly
-* ISX.is
 * Graviex
 * Dove Wallet
-* TheCoin.pw
 * SocialSend
+* EREX
 
-Advertising space
+Coins Added
 
-Twitter on footer
+* BTSY
+* XPM
 
 #### Alpha 0.0.6
 
-Working API at /graphql
-
 FAQ to explain servers statuses:
+
 * Up
 * Idle
 * Down
 
-Beautification Part 1
-
-Subscribe for newsletters from Xplorenow in Footer
-
-Charts for quality items
-
 #### Alpha 0.0.7
 
-Exchange quality index items:
-
-* Age
-* Public Team
-* KYC (Probably doesn't get a point value but good to know)
-* Regulated?
-* Volume
+Price with volume weight included
 
 #### Alpha 0.0.8
 
 FAQ with market quality item explanation
 
-Beautification Part 2
-
 #### Alpha 0.0.9
 
-Price with volume weight included
+Charts for quality items
+Working API at /graphql
+
+### Roadmap
+
+#### Beta 0.1.0
+
+Version number on footer
+Twitter on footer
+Subscribe for newsletters on Footer
+Beautification Part 1
+
+#### Beta 0.1.1
+
+Exchange quality index items:
+
+* Age
+* Public Team
+* Volume
+
