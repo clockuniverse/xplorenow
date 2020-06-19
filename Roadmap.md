@@ -115,6 +115,7 @@ FAQ with market quality item explanation
 #### Alpha 0.0.9
 
 Charts for quality items
+
 Working API at /graphql
 
 ### Roadmap
@@ -122,8 +123,11 @@ Working API at /graphql
 #### Beta 0.1.0
 
 Version number on footer
+
 Twitter on footer
+
 Subscribe for newsletters on Footer
+
 Beautification Part 1
 
 #### Beta 0.1.1
