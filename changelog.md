@@ -56,7 +56,6 @@ Quality items added:
 * Public Team
 * Decentralized Governance
 * Public Team Spending
-* Public Team
 
 #### Alpha 0.0.4
 
