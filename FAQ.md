@@ -1,5 +1,18 @@
 # Frequently Asked Questions (FAQ)
 
+## Price
+How is the price calculated?
+
+Price calculation is an important part of xplorenow because we want to have the most accurate pricing of any coin ranking site.
+
+Price is averaged but weighted by volume.  The more volume a pairing has the more weight that price is given to the overall average.
+
+The reason we are using a weighted price by volume is because outlier prices can highly distort the actual price of a coin.
+
+Anyone can find a dead pairing and sell to themselves to manipulate the coin price but with a weighted price by volume they would have to spend much more money to do that.
+
+If you find price anomalies please open an issue here: https://github.com/clockuniverse/xplorenow/issues
+
 ## Quality Items
 
 What are quality items?
@@ -35,4 +48,4 @@ Current quality items are:
 * Decentralized Governance (Link)
 * Public Team Spending (Link?)
 
-Additional quality items will be added in the future.  If you have quality item suggestions feel free to contact us or put in an issue.
+Additional quality items will be added in the future.  If you have quality item suggestions feel free to contact us or put in an issue here: https://github.com/clockuniverse/xplorenow/issues
