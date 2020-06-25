@@ -1,6 +1,6 @@
-## Frequently Asked Questions (FAQ)
+# Frequently Asked Questions (FAQ)
 
-# Quality Items
+## Quality Items
 
 What are quality items?
 
@@ -17,7 +17,7 @@ Most quality items are a yes or no question with a link meaning yes.  For exampl
 You can look at each coin’s quality items and their weight on the coins home page.
 
 Current quality items are:
-* Age of coin
+* Age of coin (generated from first block on current blockchain)
 * Market Cap of coin (though only slightly weighted)
 * Website (Link)
 * Open Source (Link)
