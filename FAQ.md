@@ -1,7 +1,48 @@
 # Frequently Asked Questions (FAQ)
 
+## Circulating Supply
+
+### How do you calculate circulating supply and why do some of them have a question mark?
+
+Circulating supply is a tricky question in the cryptoworld and since it is used to generate market cap it also is very important.
+
+Most ranking sites just take the number of block and the coins block reward schedule to determine circulating supply.  
+
+This is highly inaccurate because it doesn’t include transaction fees, superblocks (for masternode coins) or other special block rewards.
+
+Xplorenow pulls most circulating supplies from CoinGecko, but if a coin has a more accurate API for circulating supply, we use that.
+
+If the circulating supply is question mark, then we can’t find any data for the circulating supply.  This also means their market cap cannot be determined.
+
+If you know of a more accurate API for circulating supply for a cryptocurrency please open an issue: https://github.com/clockuniverse/xplorenow/issues
+
+## Circulating Supply and Lost Coins
+
+### What about circulating supply and lost coins?
+
+Lost coins can be caused for a variety of reasons such as lost computers, lost passwords, or burn coins.
+
+Most cryptocurrencies have no way to accurately determine the number of lost coins.  A cryptocurrency team could discount old unused address as “lost,” but there is no way to know if this is true.
+
+Lost coins are not considered for circulating supply on Xplorenow unless they are shown burnt on the cryptocurrencies blockchain.
+
+## Market Cap
+
+### How do you calculate market cap?
+
+Market Capitalization or better known as market cap is found by multiplying the circulating supply and the price.
+
+If the circulating supply is unavailable, then the market cap shows as “Market Cap Unavailable.”
+
+## No Volume in 24 Hours
+
+### What does No Volume in 24 hours mean related to the price?
+
+This means there is no volume in the past 24 hours and the last price is the last price where there was volume.  This could mean it was in the past couple of days or months old.
+
 ## Price
-How is the price calculated?
+
+### How is the price calculated?
 
 Price calculation is an important part of xplorenow because we want to have the most accurate pricing of any coin ranking site.
 
@@ -13,9 +54,15 @@ Anyone can find a dead pairing and sell to themselves to manipulate the coin pri
 
 If you find price anomalies please open an issue here: https://github.com/clockuniverse/xplorenow/issues
 
+## Price Unavailable
+
+### What does price unavailable mean?
+
+Price unavailable means there has never been a trade on that pairing on that exchange.  We want to make sure everyone is aware of all the pairings that a cryptocurrency is trading on, so we have included pairings that currently have never had a trade.  We think this will improve arbitrage and tradability for all cryptocurrencies.
+
 ## Quality Items
 
-What are quality items?
+### What are quality items?
 
 Quality items are a way to show the "quality" of a coin.  These items cannot be opinion items but must have a link or proof of existing.  This will give a better understanding of the "quality" of a coin.
 
