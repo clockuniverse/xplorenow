@@ -60,7 +60,11 @@ Unreliable API and sour user feedback.
 
 #### ISX.IS
 
-To get an accurate price, Xplorenow needs to add Icelandic Króna as a fiat currency.  This is planned for the future.
+To get an accurate price, Xplorenow needs to add Icelandic Króna as a fiat currency.  Adding is planned for the future.
+
+#### SocialSend
+
+SocialSend is updating their API.  Adding is planned for the future.
 
 #### YoBits
 
