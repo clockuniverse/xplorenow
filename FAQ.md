@@ -121,16 +121,16 @@ Current quality items are:
 * Open Source (Link)
 * Block Explorer (Link)
 * Number of pairs (generated automatically by xplorenow API calls)
-* CoreWallet – Linux (Link)
-* CoreWallet – Windows (Link)
-* CoreWallet – MacOS (Link)
-* Mobile Wallet – Android (Link)
-* Mobile Wallet – iOS (Link)
+* CoreWallet – Linux (Link) - Must be maintained by cryptocurrency's team
+* CoreWallet – Windows (Link) - Must be maintained by cryptocurrency's team
+* CoreWallet – MacOS (Link) - Must be maintained by cryptocurrency's team
+* Mobile Wallet – Android (Link) - Must be maintained by cryptocurrency's team
+* Mobile Wallet – iOS (Link) - Must be maintained by cryptocurrency's team
 * Paper Wallet (Link)
 * Multicoin Wallet (Link) 
 * Hardware Wallet (Link)
-* Public Team (Link.  This link can be the same as the coin’s homepage)
-* Decentralized Governance (Link)
-* Public Team Spending (Link?)
+* Public Team (Link.  This link can be the same as the coin’s homepage) - Just a site that shows the public team members
+* Decentralized Governance (Link) - Site that explains how the decentralized governance works, it cannot be a link to Discord
+* Public Team Spending (Link?) - Some sort of public ledger, or maybe a link to a webpage
 
 Additional quality items will be added in the future.  If you have quality item suggestions feel free to contact us or put in an issue here: https://github.com/clockuniverse/xplorenow/issues
