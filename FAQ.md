@@ -128,6 +128,7 @@ Current quality items are:
 * Mobile Wallet – iOS (Link) - Must be maintained by cryptocurrency's team
 * Paper Wallet (Link)
 * Multicoin Wallet (Link) 
+* Multicoin Wallet - Second (Link) - If a coin has a second multicoin wallet.
 * Hardware Wallet (Link)
 * Public Team (Link.  This link can be the same as the coin’s homepage) - Just a site that shows the public team members
 * Decentralized Governance (Link) - Site that explains how the decentralized governance works, it cannot be a link to Discord
