@@ -30,7 +30,6 @@ BTC/USD button
 
 Coin page for each coin with all pairs listed for above exchanges
 
-
 #### Alpha 0.0.3
 
 CAD Button added
@@ -109,11 +108,9 @@ Price with volume weight included
 
 #### Alpha 0.0.8
 
-FAQ with market quality item explanation
+FAQ with crypto quality item explanation
 
 #### Alpha 0.0.9
-
-Charts for quality items
 
 Working API at /graphql
 
@@ -125,15 +122,11 @@ Version number on footer
 
 Twitter on footer
 
-Subscribe for newsletters on Footer
-
 Beautification Part 1
 
 #### Beta 0.1.1
 
-Exchange quality index items:
+Charts
 
-* Age
-* Public Team
-* Volume
+Subscribe for newsletters on Footer
 
