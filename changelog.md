@@ -114,8 +114,6 @@ FAQ with crypto quality item explanation
 
 Working API at /graphql
 
-### Roadmap
-
 #### Beta 0.1.0
 
 Version number on footer
@@ -123,6 +121,15 @@ Version number on footer
 Twitter on footer
 
 Beautification Part 1
+
+Added the following Quality Items
+
+* Social Media
+* Secondary Block Explorer
+* Secondary Multicoin Wallet
+* Web Wallet
+
+### Roadmap
 
 #### Beta 0.1.1
 
