@@ -116,22 +116,26 @@ You can look at each coin’s quality items and their weight on the coins home p
 
 Current quality items are:
 * Age of coin (generated from first block on current blockchain)
-* Market Cap of coin (though only slightly weighted)
-* Website (Link)
-* Open Source (Link)
 * Block Explorer (Link)
-* Number of pairs (generated automatically by xplorenow API calls)
+* Block Explorer - Secondary (Link)
 * CoreWallet – Linux (Link) - Must be maintained by cryptocurrency's team
 * CoreWallet – Windows (Link) - Must be maintained by cryptocurrency's team
 * CoreWallet – MacOS (Link) - Must be maintained by cryptocurrency's team
+* Decentralized Governance (Link) - Site that explains how the decentralized governance works, it cannot be a link to Discord
+* Hardware Wallet (Link)
+* Market Cap of coin (though only slightly weighted)
 * Mobile Wallet – Android (Link) - Must be maintained by cryptocurrency's team
 * Mobile Wallet – iOS (Link) - Must be maintained by cryptocurrency's team
-* Paper Wallet (Link)
 * Multicoin Wallet (Link) 
 * Multicoin Wallet - Second (Link) - If a coin has a second multicoin wallet.
-* Hardware Wallet (Link)
+* Number of pairs (generated automatically by xplorenow API calls)
+* Open Source (Link)
+* Paper Wallet (Link)
 * Public Team (Link.  This link can be the same as the coin’s homepage) - Just a site that shows the public team members
-* Decentralized Governance (Link) - Site that explains how the decentralized governance works, it cannot be a link to Discord
 * Public Team Spending (Link?) - Some sort of public ledger, or maybe a link to a webpage
+* Social Mediua (Link)
+* Website (Link)
+* Web Wallet (Link)
+* Whitepaper (Link)
 
 Additional quality items will be added in the future.  If you have quality item suggestions feel free to contact us or put in an issue here: https://github.com/clockuniverse/xplorenow/issues
