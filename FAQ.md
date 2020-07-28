@@ -131,7 +131,7 @@ Current quality items are:
 * Number of pairs (generated automatically by xplorenow API calls)
 * Open Source (Link)
 * Paper Wallet (Link)
-* Public Team (Link.  This link can be the same as the coin’s homepage) - Just a site that shows the public team members
+* Public Team (Link)  This link can be the same as the coin’s homepage - Just a site that shows the public team members
 * Public Team Spending (Link?) - Some sort of public ledger, or maybe a link to a webpage
 * Social Mediua (Link)
 * Website (Link)
