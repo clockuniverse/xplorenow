@@ -7,4 +7,4 @@ The base scale is $100 USD in TRC or $150 USD in various other cryptocurrencies.
 
 The scale rises dependending on the number of exchanges and difficulty in integrating the coin into the site.
 
-If you want your crypto added to XploreNow.com put in an issue or DM me on Twitter (https://twitter.com/XploreCryptoNow)
+If you want your crypto added to XploreNow.com put in an issue or DM XploreNow.com on Twitter (https://twitter.com/XploreCryptoNow)
