@@ -1,4 +1,4 @@
-# xplorenow
+# XploreNow
 Public repository for XploreNow
 
 You can find the issues list here: https://github.com/clockuniverse/xplorenow/issues
