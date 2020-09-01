@@ -133,7 +133,7 @@ Current quality items are:
 * Paper Wallet (Link)
 * Public Team (Link)  This link can be the same as the coin’s homepage - Just a site that shows the public team members
 * Public Team Spending (Link?) - Some sort of public ledger, or maybe a link to a webpage
-* Social Mediua (Link)
+* Social Media (Link)
 * Website (Link)
 * Web Wallet (Link)
 * Whitepaper (Link)
